@@ -39,3 +39,5 @@ bot.on('message', async message => {
 });
 
 bot.login(token);
+
+f
